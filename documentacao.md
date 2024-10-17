@@ -40,7 +40,7 @@ void loop() {
 }
  `
 
- <div align="center">
+<div align="center">
 <sub>Imagem do código</sub>
 <br>
 <img src="image.png" alt="Imagem código">
@@ -48,7 +48,13 @@ void loop() {
 <sup>Fonte: Material produzido por Vinícius(2024)</sup>
 </div>
 
-
+<div align="center">
+<sub>Vídeo do funcionamento</sub>
+<br>
 <video width="640" height="360" controls>
     <source src="video.mp4" type="video/mp4">
-  </video>
+</video>
+<br>
+<sup>Fonte: Material produzido por Vinícius(2024)</sup>
+</div>
+
