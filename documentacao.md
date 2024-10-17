@@ -58,3 +58,13 @@ void loop() {
 <sup>Fonte: Material produzido por Vinícius(2024)</sup>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na simulação apresentada, foi criado um circuito básico no Tinkercad para fazer um LED piscar utilizando uma placa Arduino Uno. O circuito é composto por um LED conectado a um resistor, que limita a corrente, e está ligado ao pino digital 13 do Arduino, além da conexão ao GND. Com esse setup, é possível programar o Arduino para ligar e desligar o LED em intervalos regulares, criando o efeito de piscar. Essa simulação é um exemplo clássico de introdução ao Arduino, permitindo o entendimento dos conceitos básicos de controle de componentes eletrônicos através de programação.
+
+<div align="center">
+<sub>Imagem do tinkercad</sub>
+<br>
+<img src="image2.png" alt="Imagem código">
+<br>
+<sup>Fonte: Material produzido por Vinícius(2024)</sup>
+</div>
+
