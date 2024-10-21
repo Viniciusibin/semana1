@@ -1,6 +1,15 @@
-## Ponderada semana 1 
+## Ponderada semana 1 - Projeto: Pisca LED com Arduino
 
-### Código completo do IDE
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este projeto utiliza uma placa Arduino Uno para controlar o piscar de um LED em intervalos regulares de tempo. O objetivo é familiarizar-se com os conceitos básicos de controle de componentes eletrônicos por meio da programação. Esse circuito simula o funcionamento de um LED que liga e desliga repetidamente, um exemplo clássico de introdução ao uso do Arduino.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Diagrama de Circuito:* Conecte o ânodo (perna maior) do LED ao pino digital 13 do Arduino.
+Conecte o cátodo (perna menor) do LED ao resistor.
+Conecte a outra extremidade do resistor ao pino GND (terra) do Arduino. Segue o diagrama na imagem abaixo.
+
+<img src="image2.png" alt="Diagrama do circuito no Tinkercad"> <sup>Fonte: Material produzido por Vinícius (2024)</sup>
+
+### Código completo que foi carregado no Arduino para controlar o piscar do LED:
 ` /*
   Blink
 
@@ -39,24 +48,19 @@ void loop() {
   delay(1000);                      // wait for a second
 }
  `
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segue abaixo a imagem do código:
 
-<div align="center">
+ <div align="center">
 <sub>Imagem do código</sub>
 <br>
 <img src="image.png" alt="Imagem código">
 <br>
 <sup>Fonte: Material produzido por Vinícius(2024)</sup>
 </div>
+*Explicação do Código:*
 
-<div align="center">
-<sub>Vídeo do funcionamento</sub>
-<br>
-<video width="640" height="360" controls>
-    <source src="video.mp4" type="video/mp4">
-</video>
-<br>
-<sup>Fonte: Material produzido por Vinícius(2024)</sup>
-</div>
+Setup: Configura o pino do LED como saída para que ele possa ser controlado.
+Loop: A função loop() é executada continuamente, alternando o estado do LED entre ligado e desligado com intervalos de um segundo.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na simulação apresentada, foi criado um circuito básico no Tinkercad para fazer um LED piscar utilizando uma placa Arduino Uno. O circuito é composto por um LED conectado a um resistor, que limita a corrente, e está ligado ao pino digital 13 do Arduino, além da conexão ao GND. Com esse setup, é possível programar o Arduino para ligar e desligar o LED em intervalos regulares, criando o efeito de piscar. Essa simulação é um exemplo clássico de introdução ao Arduino, permitindo o entendimento dos conceitos básicos de controle de componentes eletrônicos através de programação.
 
@@ -68,3 +72,6 @@ void loop() {
 <sup>Fonte: Material produzido por Vinícius(2024)</sup>
 </div>
 
+### Esse é o link para acessar o video da aplicação
+
+https://youtube.com/shorts/K8xUhy697NQ?feature=share
