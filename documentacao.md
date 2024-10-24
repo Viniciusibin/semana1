@@ -72,6 +72,8 @@ Loop: A função loop() é executada continuamente, alternando o estado do LED e
 <sup>Fonte: Material produzido por Vinícius(2024)</sup>
 </div>
 
+https://www.tinkercad.com/things/91LLxoCCYu0-bodacious-migelo/editel
+
 ### Esse é o link para acessar o video da aplicação
 
 https://youtube.com/shorts/K8xUhy697NQ?feature=share
